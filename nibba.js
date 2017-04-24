@@ -1,3 +1,5 @@
+
+function nibba(){
 var word = prompt('What do you want to ni🅱🅱ify?')
 var newChar = ''
 var newWord = ''
@@ -17,3 +19,4 @@ for (i = 0; i < word.length; i++) {
 }
 
 confirm(newWord)
+}
